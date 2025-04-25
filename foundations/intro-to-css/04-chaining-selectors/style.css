@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+/* Add CSS Styling
+
+- **The first element**: a black background and white text
+- **The second element**: a yellow background
+- **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback */
+
+
+.avatar.proportioned {
+  height: auto;
+  width: 300px;
+}
+
+.avatar.distorted {
+  height: 400px;
+  width: 200px;
+}
